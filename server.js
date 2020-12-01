@@ -59,6 +59,9 @@ app.get('/' , (req , res) => {
         </div>
         
         <ul  id="item-list" class="list-group pb-5">
+          <li class="list-group-item list-group-item-action d-flex align-items-center justify-content-between">
+            <span class="item-text">Hello this is app totally made on JavaScript+Node , Hope You Like it!</span>
+          </li>
         </ul>
         
       </div>
